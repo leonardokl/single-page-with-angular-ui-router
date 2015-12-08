@@ -1,0 +1,17 @@
+{
+  "name": "single-page-with-angular",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "keywords": [
+    "angular"
+  ],
+  "author": "Leonardo Luiz",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
